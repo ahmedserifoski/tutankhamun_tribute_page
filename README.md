@@ -1,6 +1,17 @@
-# Tutankhamun Landing Page 
+# Survey Form Coffe Shop
 
-* This is a full responsive (mobile first) timeline of Tutankhamuns life.
+**LIVE LINK:** https://tutankhamun-landing-page.netlify.app/
 
-* You can view the page on this link: [Tutankhamun Landing Page](https://sad-swirles-102141.netlify.com/)
+## Features
+* Fully responsive (mobile first)
+* Fully functional on the front end
 
+
+## Running the Project
+**From the repo:**
+1. Clone this project locally
+2. Open index.html in your browser
+
+## Technologies used 
+* HTML
+* CSS
